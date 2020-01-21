@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First post!
-image: img/mypic3.jpg
+image: img/mypic4.jpg
 published: true
 ---
 
