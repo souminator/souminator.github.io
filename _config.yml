@@ -28,9 +28,7 @@ navbar-links:
 # Remove this parameter if you don't want an image in the navbar
 avatar: "img/mypic3.jpg"
 
-# If you want to have an image logo in the top-left corner instead of the title text,
-# then specify the following parameter
- title-img: "img/mypic3.jpg"
+
 
 # --- Background colour/image options --- #
 
