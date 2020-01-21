@@ -11,10 +11,10 @@ description: "A Webpage on Data"
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-#url: "https://example.com"
+url: "http://souminator.github.io"
 
 # baseurl should be an empty string
-#baseurl: ""
+baseurl: ""
 
 # --- Navigation bar options --- #
 
@@ -63,7 +63,6 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-
   email: "ss1055@duke.edu"
   github: souminator
 #  twitter: daattali
@@ -82,6 +81,7 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
+  rss: false
   github: true
   facebook: true
   linkedin: true
