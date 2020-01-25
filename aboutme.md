@@ -12,7 +12,7 @@ To advance my data analytics skills, I'm currently learning python and machine l
 
 This was all about my professional life, but my hobbies are something that have changed my life in a positive way and keep me sane and alive :D 
 
-* Dance 💃: I'm a self taught dancer and have been dancing since I didn't even know how to walk (my mom says I use to start shaking my butt while crawling as soon as they played some music :P ).I have participated and led my college dance team in India in various inter-college competitions. Dance is very close to my heart and it has taught me teamwork, precision and self-confidence. 
+* Dance 💃: I'm a self taught dancer and have been dancing since I didn't even know how to walk !! I have participated and led my college dance team in India in various inter-college competitions. Dance is very close to my heart and it has taught me teamwork, precision and self-confidence. 
 
 * Cooking 🥘 : I started cooking regularly after moving to US in 2019. It started as a hobby but it taught me patience and taking risks. I often watch cooking videos online and try creating something new out of it.
 
