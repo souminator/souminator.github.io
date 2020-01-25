@@ -4,7 +4,7 @@ title: About me
 subtitle: or..Why am I worth Knowing!
 ---
 
-My name is Soumya Sharma and I'm from the land of mystery and diversity - INDIA. I'm currently pursuing Masters in Engineering Management from Duke University (Class of 2020) with a focus on Data Analytics. Before Duke, I was working as a Business Analyst in a Management Consulting firm back in India and have worked across a spectrum of industries - Healthcare, E-commerce, Cab Aggregator and Logistics.  
+My name is Soumya Sharma and I'm currently pursuing Masters in Engineering Management from Duke University (Class of 2020) with a focus on Data Analytics. Before Duke, I was working as a Business Analyst in a Management Consulting firm back in India and have worked across a spectrum of industries - Healthcare, E-commerce, Cab Aggregator and Logistics.  
 
 As a Business Analyst, I was responsible for conducting primary/secondary research, expert interviews, extracting key insights and suggesting key strategies from data collected to make an impact.  
 
