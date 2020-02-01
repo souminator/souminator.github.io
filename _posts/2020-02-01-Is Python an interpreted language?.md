@@ -19,7 +19,7 @@ The categorization of programming languages into compilers and interpreters does
 
 
 <p align="center"> 
-<img src="img/Compiler:Interpreter.jpg"  width="500" height="500">
+<img src="img/compilerinterpreter.jpg"  width="500" height="500">
 </p>
   
 <p align="center"> 
@@ -33,7 +33,7 @@ Interpreting means that the code is translated simultaneously or compiled and ex
 
 
 <p align="center">
-<img src="img/compilePic.png"  width="300" height="300">
+<img src="img/compilepic.jpg"  width="300" height="300">
 </p>
 
 <p align="center">
