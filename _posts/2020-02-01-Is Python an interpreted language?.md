@@ -23,7 +23,7 @@ The categorization of programming languages into compilers and interpreters does
 </p>
   
 <p align="center"> 
-Source:(http://www.comicstripoftheday.com/ ) 
+Source:(http://www.comicstripoftheday.com/) 
 </p>
 
 <p align="justify">
@@ -37,7 +37,7 @@ Interpreting means that the code is translated simultaneously or compiled and ex
 </p>
 
 <p align="center">
-Source: (https://www.explainxkcd.com )
+Source: (https://www.explainxkcd.com)
 </p>
 
 <p align="justify">
