@@ -4,13 +4,13 @@ title: Is Python an Interpreted Language?
 tags: [python, interpreted languages, programming, data scientist]
 ---
 <p align="justify">
-When I started learning Python, I always came across this statement – “Python is an ***interpreted language***”, which meant that it executes a code line by line. To understand what “interpreted” really means, I tried to deep dive a little on this concept and realized that a more correct way of making that statement  would be - it has an **“interpreted implementation”***.*
+When I started learning Python, I always came across this statement – “Python is an interpreted language”, which meant that it executes a code line by line. To understand what “interpreted” really means, I tried to deep dive a little on this concept and realized that a more correct way of making that statement  would be - it has an **“interpreted implementation”.
 </p>
 
 Confused? Let’s try to break this down in a simpler language. 
 
 <p align="justify">
-Programming languages can either be **interpreted** or **compiled** or **both**. During my C programming lab in under-graduation, I remember using the compiler every time to run the C program. Now when I started learning python, I came across the concept of interpreters. I am no major in computer science but I tried to understand the basic difference between the two concepts that I would like to share.
+Programming languages can either be interpreted or compiled or both. During my C programming lab in under-graduation, I remember using the compiler every time to run the C program. Now when I started learning python, I came across the concept of interpreters. I am no major in computer science but I tried to understand the basic difference between the two concepts that I would like to share.
 </p>
 
 <p align="justify">
