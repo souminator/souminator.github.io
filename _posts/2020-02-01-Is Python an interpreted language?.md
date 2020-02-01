@@ -18,13 +18,9 @@ The categorization of programming languages into compilers and interpreters does
 </p>
 
 
-<p align="center"> 
-<img src="img/compilerinterpreter.jpg"  width="500" height="500">
-</p>
-  
-<p align="center"> 
-Source:(http://www.comicstripoftheday.com/) 
-</p>
+
+<img src="img/compiler.png" width="500" height="500">
+
 
 <p align="justify">
 Interpreting means that the code is translated simultaneously or compiled and executed directly (not to be confused with just-in-time compilation) as it is written, because of which it is considered slower. Whereas, compiling means that the source code is converted into machine code for once and for all and can be executed any time after that. It is therefore considered faster and more efficient compared to an interpreter. However, interpreters provide more flexibility, dynamic typing and are easier to learn.
