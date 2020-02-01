@@ -30,7 +30,7 @@ XKCD even has a comic on it!
 
 
 <p align="center">
-<img src="img/compilepic.jpg"  width="300" height="300">
+<img src="img/comic.png" width="300" height="300">
 </p>
 
 <p align="justify">
