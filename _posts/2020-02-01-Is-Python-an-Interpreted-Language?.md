@@ -17,9 +17,7 @@ Programming languages can either be interpreted or compiled or both. During my C
 The categorization of programming languages into compilers and interpreters does not make any sense. Just like humans need a language to converse and understand each other, a computer understands only machine code in binary which is not human readable. A programming language is first written in a human-readable language and then translated to machine code. The process in which a code is translated is what makes it interpreted or compiled.
 </p>
 
-
-
-![compiler image](img/compiler.png)
+![compiler vs interpreter](img/compiler.png)
 
 
 
