@@ -19,7 +19,7 @@ The categorization of programming languages into compilers and interpreters does
 
 
 
-![](img/compiler.png)
+![compiler image](img/compiler.png)
 
 
 
@@ -30,7 +30,7 @@ Interpreting means that the code is translated simultaneously or compiled and ex
 XKCD even has a comic on it!
 </p>
 
-![](img/comic.png)
+![xkcd image](img/comic.png)
 
 
 
