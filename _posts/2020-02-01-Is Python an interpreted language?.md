@@ -19,7 +19,9 @@ The categorization of programming languages into compilers and interpreters does
 
 
 
-<img src="img/compiler.png" width="500" height="500">
+![](img/compiler.png)
+
+
 
 
 <p align="justify">
@@ -28,10 +30,9 @@ Interpreting means that the code is translated simultaneously or compiled and ex
 XKCD even has a comic on it!
 </p>
 
+![](img/comic.png)
 
-<p align="center">
-<img src="img/comic.png" width="300" height="300">
-</p>
+
 
 <p align="justify">
 Every programming language can be implemented by an interpreter or compiler. An ambitious programmer can write both, a compiler and interpreter for a language.Some of the commonly compiled languages are C, C++, FORTRAN, Go (a compiled programming language designed by Google!), etc, whereas some commonly interpreted languages are Python, JavaScript, Perl, etc.
